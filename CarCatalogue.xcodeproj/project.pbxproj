@@ -24,6 +24,7 @@
 		5291F4FB251CC9AF005156EF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5291F4FE251CC9AF005156EF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5291F500251CC9AF005156EF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5291F507251CCA66005156EF /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +64,7 @@
 				5291F4FB251CC9AF005156EF /* Assets.xcassets */,
 				5291F4FD251CC9AF005156EF /* LaunchScreen.storyboard */,
 				5291F500251CC9AF005156EF /* Info.plist */,
+				5291F507251CCA66005156EF /* README.md */,
 			);
 			path = CarCatalogue;
 			sourceTree = "<group>";
